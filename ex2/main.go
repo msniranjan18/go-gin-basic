@@ -49,3 +49,7 @@ Connection: close
   "Param2": "20"
 }
 */
+
+/*
+Note: https://github.com/msniranjan18/go-excercises/edit/master/go-gin/gin-binding-poc.go same code.
+*/
